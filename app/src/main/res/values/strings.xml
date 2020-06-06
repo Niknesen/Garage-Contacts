@@ -1,0 +1,18 @@
+<resources>
+    <!-- general -->
+    <string name="app_name">Garage Contacts</string>
+    <string name="action_settings">Reset table</string>
+    <string name="edit_contact_activity_name">New Contact</string>
+    <!-- tools -->
+    <string name="tools_random_contact">Достоевский Фёдор Михайлович</string>
+    <!-- hints -->
+    <string name="hint_type_name">Name</string>
+    <string name="hint_type_surname">Surname</string>
+    <string name="hint_type_email">Email</string>
+    <!-- UI -->
+    <string name="ui_warning_empty_contact">Can\'t save empty contact</string>
+    <string name="ui_warning_no_save">Leaving without saving ?</string>
+    <string name="ui_warning_stay">Stay</string>
+    <string name="ui_warning_leave">Leave</string>
+
+</resources>
